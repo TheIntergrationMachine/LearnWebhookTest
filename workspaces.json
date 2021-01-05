@@ -1,0 +1,607 @@
+{
+  "version": "1.0",
+  "encoding": "utf-8",
+  "soap$Envelope": {
+    "@xmlns$soap": "http://schemas.xmlsoap.org/soap/envelope/",
+    "@xmlns$xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xmlns$xsd": "http://www.w3.org/2001/XMLSchema",
+    "soap$Body": {
+      "GetResultResponse": {
+        "@xmlns": "http://www.relatics.com/",
+        "GetResultResult": {
+          "Report": {
+            "@ReportName": "Actieve Workspaces DVDI",
+            "@GeneratedOn": "2020-12-14",
+            "@EnvironmentID": "c0b59330-eccd-43d5-9f0a-b6f0c6c84dc4",
+            "@EnvironmentName": "DURA VERMEER",
+            "@EnvironmentURL": "https://duravermeer.relaticsonline.com/",
+            "@WorkspaceID": "d441f060-559b-e611-80dd-000af753dd43",
+            "@WorkspaceName": "9999999 - Bibliotheek - DVDI",
+            "@TargetDevice": "Pc",
+            "@xmlns": "",
+            "projects": {
+              "project": [
+                {
+                  "@name": "A12 IJsselbruggen",
+                  "workspace": {
+                    "@id": "37dfbf81-5122-eb11-a2f4-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "2002611"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Aanleg Bergbezinkbassin Bosscherveld",
+                  "workspace": {
+                    "@id": "5f55a196-9aa0-418d-b266-02e33fdb0c67"
+                  },
+                  "number": {
+                    "@value": "5078"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Aanleg Noordelijke Randweg Voorhout",
+                  "workspace": {
+                    "@id": "489b851e-cc70-489f-8fb1-76e266e46a8c"
+                  },
+                  "number": {
+                    "@value": "43202096"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Almere OMOP Gesloten verhardingen",
+                  "workspace": {
+                    "@id": "80a392a3-a336-4448-8b77-86e3ac953045"
+                  },
+                  "number": {
+                    "@value": "45202887"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Arnhem vervangen Interlocking",
+                  "workspace": {
+                    "@id": "c72ef489-210a-eb11-a2f3-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "6019115"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "BBV Havenspoorlijn infra op orde scope 2020 2021",
+                  "workspace": {
+                    "@id": "900e7c7d-f7ce-4220-b517-8d6d246babd2"
+                  },
+                  "number": {
+                    "@value": "6020052"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "BWRM Bedrijventerrein Segro",
+                  "workspace": {
+                    "@id": "0bbb8624-ee3d-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "45203122"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Dijkversterking Heel en Beesel",
+                  "workspace": {
+                    "@id": "e3001ff8-eae2-ea11-a2f0-00155d653c05"
+                  },
+                  "number": {
+                    "@value": "2004630"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Dijkversterking Steyl-Maashoek",
+                  "workspace": {
+                    "@id": "8ba24eba-f132-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "1903557"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Dijkversterking Tiel - Waardenburg",
+                  "workspace": {
+                    "@id": "66a90c4c-8530-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "2004627"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Europaweg – Schipholweg",
+                  "workspace": {
+                    "@id": "7b9f3e10-06b5-49f7-8540-d464c3e6e4ad"
+                  },
+                  "number": {
+                    "@value": "4516173320"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Floriade Almere 2022",
+                  "workspace": {
+                    "@id": "6e06c78c-5933-401b-b1f9-30b30672970c"
+                  },
+                  "number": {
+                    "@value": "IPFLOR"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Gebiedsontwikkeling Ooijen - Wanssum",
+                  "workspace": {
+                    "@id": "4a6d2117-694b-47d3-8af5-bd564e892fd5"
+                  },
+                  "number": {
+                    "@value": "C458"
+                  },
+                  "template": {
+                    "@version": "Master template version X.X"
+                  }
+                },
+                {
+                  "@name": "Geluidswal A20 - Wilgenrijk Maassluis",
+                  "workspace": {
+                    "@id": "06c63152-6da9-4da8-a256-26c1e304e608"
+                  },
+                  "number": {
+                    "@value": "431200A"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "GO en Vervanging Civiele Constructies Amsterdam",
+                  "workspace": {
+                    "@id": "c6fa27c3-7969-4790-912a-bebb9142823e"
+                  },
+                  "number": {
+                    "@value": "45192865"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "HOV Aalsmeer Schiphol Zuid",
+                  "workspace": {
+                    "@id": "9ae64b2a-3314-4d3c-abaf-1b1815fa016f"
+                  },
+                  "number": {
+                    "@value": "IPHOVA"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "HWBP Stenendijk Hasselt",
+                  "workspace": {
+                    "@id": "95151adc-95cd-ea11-a2f0-00155d653c05"
+                  },
+                  "number": {
+                    "@value": "42202040"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "IB ProRail Erkenningen",
+                  "workspace": {
+                    "@id": "6bba30c2-9907-eb11-a2f3-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "6020822"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Integraal onderhoud trekkersveld zeewolde",
+                  "workspace": {
+                    "@id": "7d511c97-d8a7-40f4-b98d-f4cc993e998a"
+                  },
+                  "number": {
+                    "@value": "45302946"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Jan Gijzenkade – Generaal Spoorlaan",
+                  "workspace": {
+                    "@id": "8aafcb99-813d-4132-8df5-f1ee3dbf3e68"
+                  },
+                  "number": {
+                    "@value": "4516173319"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Koopvaardersschutsluis",
+                  "workspace": {
+                    "@id": "265f044f-5236-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "2003623"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Kooymont",
+                  "workspace": {
+                    "@id": "202057f8-3e8f-44ff-8abd-c19501d433ed"
+                  },
+                  "number": {
+                    "@value": "2006644"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "KWA+ Knooppunt Polsbroek en Enkele Wiericke",
+                  "workspace": {
+                    "@id": "799f7317-7c1d-4b85-ba7b-d4825f623609"
+                  },
+                  "number": {
+                    "@value": "43202080"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "OLV Aalsmeer N201",
+                  "workspace": {
+                    "@id": "6835e5bb-f43d-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "45203100"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Onderstation Boxmeer",
+                  "workspace": {
+                    "@id": "17e35d71-8e94-4bf4-948d-af1cc6e2dbff"
+                  },
+                  "number": {
+                    "@value": "E20002"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Onderstation Etten-Leur",
+                  "workspace": {
+                    "@id": "51281042-b333-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "E20004"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Oranjeloper",
+                  "workspace": {
+                    "@id": "1e37409c-56b1-ea11-a2ed-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "1904561"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Prestatiecontract kunstwerken Oost-Nederland",
+                  "workspace": {
+                    "@id": "427dc6d2-2a15-eb11-a2f4-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "204610043"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Realisatie beekherstel en waterberging Grootgoor",
+                  "workspace": {
+                    "@id": "553cd68e-da19-eb11-a2f4-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "5212"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Realisatie Uithoornlijn",
+                  "workspace": {
+                    "@id": "d2861a77-a5e6-49fe-ad41-925a17b5b1a3"
+                  },
+                  "number": {
+                    "@value": "IPUITH"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Reconstructie Engweg e.o., Hoogland",
+                  "workspace": {
+                    "@id": "eb937492-d645-40da-b8bb-338070a406bb"
+                  },
+                  "number": {
+                    "@value": "42202079"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "RRZ Realisatie BBV + FW Waalhaven 2021",
+                  "workspace": {
+                    "@id": "2ff085db-6b85-4e10-b1f0-6dfa8ab46e75"
+                  },
+                  "number": {
+                    "@value": "6020030"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Spooromgeving Geldermalsen",
+                  "workspace": {
+                    "@id": "adece54a-1492-4289-8571-67d2c2c5f104"
+                  },
+                  "number": {
+                    "@value": "C471"
+                  },
+                  "template": {
+                    "@version": "Master template version 3.0"
+                  }
+                },
+                {
+                  "@name": "Stadsdijken Zwolle",
+                  "workspace": {
+                    "@id": "655fba58-0954-4f81-9041-4d0cf71fc98d"
+                  },
+                  "number": {
+                    "@value": "1804499"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Station Den Haag Holland Spoor",
+                  "workspace": {
+                    "@id": "7c54a5ea-c18a-4bef-87c2-b91cc4780b03"
+                  },
+                  "number": {
+                    "@value": "45192856"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Test aanmaak v5",
+                  "workspace": {
+                    "@id": "720ccff1-7609-eb11-a2f3-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "8888888"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Testomgeving OTAP Release 5.0",
+                  "workspace": {
+                    "@id": "31e069dc-007f-ea11-a2eb-00155d653c05"
+                  },
+                  "number": {
+                    "@value": "99999999"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Vervanging kunstwerk Hoog Burel",
+                  "workspace": {
+                    "@id": "5784a411-a038-eb11-a2f5-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "42202196"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "VIA15 A15 Ressen-Oudbroeken",
+                  "workspace": {
+                    "@id": "7886fbdf-71dc-4993-9b80-42e09ad5419b"
+                  },
+                  "number": {
+                    "@value": "C485"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Windpark A16",
+                  "workspace": {
+                    "@id": "1d00c64b-d803-eb11-a2f3-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "2001606011"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Windpark Deil",
+                  "workspace": {
+                    "@id": "fae9ea08-bc43-4b67-bafc-e81c6d6915f8"
+                  },
+                  "number": {
+                    "@value": "E18001"
+                  },
+                  "template": {
+                    "@version": "Master template version 3.0"
+                  }
+                },
+                {
+                  "@name": "Windpark Delfzijl Zuid",
+                  "workspace": {
+                    "@id": "b55b3abc-d803-eb11-a2f3-00155d653c06"
+                  },
+                  "number": {
+                    "@value": "2001606012"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Windpark Moerdijk",
+                  "workspace": {
+                    "@id": "235bf241-21e1-44db-9942-8b05a607c2f1"
+                  },
+                  "number": {
+                    "@value": "E19001"
+                  },
+                  "template": {
+                    "@version": "Master template version 3.0"
+                  }
+                },
+                {
+                  "@name": "Windpark Pottendijk",
+                  "workspace": {
+                    "@id": "5ba1321b-52ad-43e5-8b05-af130e5c83c7"
+                  },
+                  "number": {
+                    "@value": "42202147"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Windpark Spuisluis",
+                  "workspace": {
+                    "@id": "9bae5cc7-fdbd-4c46-a741-8c842eaecf01"
+                  },
+                  "number": {
+                    "@value": "E20001"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                },
+                {
+                  "@name": "Windpark Vermeer",
+                  "workspace": {
+                    "@id": "e1e654bb-4103-43d8-ada8-a2464ba18007"
+                  },
+                  "number": {
+                    "@value": "E18002"
+                  },
+                  "template": {
+                    "@version": "Master template version 3.0"
+                  }
+                },
+                {
+                  "@name": "Windplanblauw",
+                  "workspace": {
+                    "@id": "8e94092d-6dca-ea11-a2ef-00155d653c05"
+                  },
+                  "number": {
+                    "@value": "1810529"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.1"
+                  }
+                },
+                {
+                  "@name": "Zwanenburg Reconstructie Dennenlaan",
+                  "workspace": {
+                    "@id": "e28b0988-d262-4850-9c7d-3b2b7c17f179"
+                  },
+                  "number": {
+                    "@value": "45202938"
+                  },
+                  "template": {
+                    "@version": "Master template version 4.0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
